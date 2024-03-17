@@ -10,7 +10,7 @@ Follow these steps to use the code:
 Download or clone this repository using Git. If you haven't installed Git yet, you can download it [here](https://git-scm.com/downloads).
 
 ```bash
-git clone https://github.com/alamsyah54/Asep.Ngecek.Netflix_WithProxy.git NETFLIX_SUCKER
+git clone https://github.com/alamsyah54/Asep.Bikin.Netflix_NoProxy.git NETFLIX_FUCKER
 ```
 
 ### Step 2: Install Dependencies
